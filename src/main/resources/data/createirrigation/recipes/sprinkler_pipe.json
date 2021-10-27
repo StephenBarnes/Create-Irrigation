@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "create:pipe"
+    }
+  },
+  "result": {
+    "item": "createirrigation:sprinkler_pipe",
+    "count": 2
+  }
+}

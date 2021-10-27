@@ -1,10 +1,6 @@
 package com.stebars.createirrigation.registration;
 
-import com.simibubi.create.foundation.ponder.PonderRegistry;
-import com.simibubi.create.foundation.ponder.content.PonderTag;
-import com.stebars.createirrigation.CreateIrrigation;
-
-public class PonderRegistrator {
+/*public class PonderRegistrator {
     public static void register() {
         PonderRegistry.startRegistration(CreateIrrigation.modid);
 
@@ -16,4 +12,4 @@ public class PonderRegistrator {
 
         PonderRegistry.endRegistration();
     }
-}
+}*/
